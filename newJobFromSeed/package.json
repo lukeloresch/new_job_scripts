@@ -1,0 +1,20 @@
+{
+  "name": "hg-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hg-git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "colors": "^1.1.2",
+    "expand-tilde": "^2.0.2",
+    "minimist": "^1.2.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}
